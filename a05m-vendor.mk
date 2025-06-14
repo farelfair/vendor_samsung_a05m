@@ -2910,7 +2910,6 @@ PRODUCT_PACKAGES += \
     android.hardware.health@2.1-samsung.xml \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml \
     android.hardware.usb@1.3-service.coral.xml \
-    android.hardware.wifi.supplicant.xml \
     android.hardware.wifi@1.0-service.xml \
     engmode_manifest.xml \
     hyper-default-sec.xml \
