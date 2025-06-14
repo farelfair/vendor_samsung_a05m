@@ -2906,7 +2906,6 @@ PRODUCT_PACKAGES += \
     GoogleTetheringResOverlay \
     InProcessTetheringResOverlay \
     TetheringResOverlay \
-    android.hardware.cas@1.2-service-lazy.xml \
     android.hardware.dumpstate@1.1-service-lazy.xml \
     android.hardware.health@2.1-samsung.xml \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml \
