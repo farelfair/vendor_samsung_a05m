@@ -10,7 +10,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a05m/proprietary/etc/audio_effects.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.xml \
     vendor/samsung/a05m/proprietary/etc/audio_effects_common.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_common.conf \
     vendor/samsung/a05m/proprietary/etc/audio_effects_model.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_model.xml \
-    vendor/samsung/a05m/proprietary/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_SYSTEM)/etc/seccomp_policy/mediacodec.policy \
     vendor/samsung/a05m/proprietary/lib/libdatasource.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource.so \
     vendor/samsung/a05m/proprietary/lib/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource_local_cache.so \
     vendor/samsung/a05m/proprietary/lib/libmedia_codeclist.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmedia_codeclist.so \
